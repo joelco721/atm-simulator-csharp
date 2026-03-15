@@ -5,6 +5,11 @@ This is a beginner C# console application I built while learning programming fun
 ## Purpose
 I’m uploading this project as part of my development journey so both I and future employers can see how my skills improve over time. I may leave this project exactly as it is as a record of my early stage in learning C# and building console applications.
 
+## How I Built It
+I wrote this project myself and did not use AI to generate the code for me. My goal while learning is to fully understand what I am writing rather than blindly copying and pasting code. I want to become a developer who understands the logic, structure, and purpose behind the code I write.
+
+When I got stuck or did not understand something, I sometimes used AI only as a guide to help me think through problems, understand concepts, and move in the right direction, not to provide the final answer.
+
 ## Features
 - Create account
 - Login
@@ -12,7 +17,7 @@ I’m uploading this project as part of my development journey so both I and fut
 - Deposit money
 - Withdraw money
 
-## What I practiced
+## What I Practiced
 - Methods
 - Loops
 - Conditional statements
